@@ -1,0 +1,11 @@
+
+I
+java:S1121 ".Extract the assignment out of this expression.(ÕÖËÿÿÿÿÿ
+I
+java:S1121%".Extract the assignment out of this expression.(—‡Îóúÿÿÿÿ
+I
+java:S1121/".Extract the assignment out of this expression.(—‡Îóúÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(±ÔÙîıÿÿÿÿ
+D
+java:S1172-".Remove this unused method parameter "account".(Áùş˜
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(±ÔÙîıÿÿÿÿ
